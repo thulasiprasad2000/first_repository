@@ -1,0 +1,5 @@
+this is a.txt file
+2
+3
+4
+5 contains 5 lines
